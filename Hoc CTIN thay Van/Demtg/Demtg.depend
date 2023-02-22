@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633674768 source:c:\users\phuoclb\documents\code\hoc ctin thay van\demtg\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<math.h>
+

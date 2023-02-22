@@ -1,0 +1,29 @@
+{ 
+   "workbench.colorTheme": "Solarized Dark",
+   "editor.mouseWheelZoom": true,
+   "editor.fontSize": 18,
+   "git.enableSmartCommit": true,
+   "code-runner.clearPreviousOutput": false,
+   "editor.snippetSuggestions": "top",
+   "window.zoomLevel":0,
+   "workbench.startupEditor": "newUntitledFile",
+   "code-runner.runInTerminal": true,
+   "code-runner.runInOutput": false,
+   "code-runner.saveFileBeforeRun":true,
+   "type": "c",
+   "name": "Debug (Launch) - Current File",
+   "request": "launch",
+   "args": "",
+   "console": "internalConsole",
+   "mainClass": "${file}",
+   "code-runner.ignoreSelection": true,
+   "terminal.integrated.tabs.enabled": true,
+   "json.schemas": [
+
+  ],
+    "launch": {
+
+    "configurations": [],
+    "compounds": []
+            }
+     }

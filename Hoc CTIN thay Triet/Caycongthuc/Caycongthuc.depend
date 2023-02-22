@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634024132 source:c:\users\phuoclb\documents\code\hoc ctin thay triet\caycongthuc\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<stack>
+

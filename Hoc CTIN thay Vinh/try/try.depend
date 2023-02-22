@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638776832 source:c:\users\phuoclb\documents\code\hoc ctin thay vinh\try\main.cpp
+	<cstdio>
+	<iostream>
+	<queue>
+	<vector>
+

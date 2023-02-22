@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632465077 source:c:\users\phuoclb\documents\code\hoc ctin thay van\kphantulonnhat\main.cpp
+	<iostream>
+	<queue>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632491094 source:c:\users\phuoclb\documents\code\hoc ctin thay hung\3dprinter\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+

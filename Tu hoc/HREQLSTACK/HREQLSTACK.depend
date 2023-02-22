@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634785217 source:c:\users\phuoclb\documents\code\tu hoc\hreqlstack\main.cpp
+	<iostream>
+	<queue>
+
